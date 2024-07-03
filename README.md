@@ -14,8 +14,11 @@ This project explores the potential of quantum communication, leveraging quantum
 2. Run the example scripts in the `examples/` directory to see the simulation in action.
 3. Explore the `quantum_comm/` package to understand the simulation and analysis processes.
 
-## Development
-This project is open-source and welcomes contributions. Whether you're interested in enhancing the simulation capabilities, expanding the analysis tools, or improving the documentation, your contributions are valuable.
+
 
 ## License
-The Quantum Communication Project is released under the MIT License. See the LICENSE file for more details.
+
+The Quantum-Communication software is licensed under a proprietary license. Please see the file for more details.
+
+For inquiries regarding licensing, please contact:
+phillip@politefairchild.com
